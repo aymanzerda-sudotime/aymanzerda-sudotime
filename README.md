@@ -9,6 +9,8 @@
 ## FIND ME:
 - LINKEDIN : 
 [![Linkedin Badge](https://img.shields.io/twitter/url?color=lightblue&label=Ayman%20Zerda&logo=linkedin&logoColor=lightblue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fayman-zerda-0656531b0)](https://www.linkedin.com/in/ayman-zerda-0656531b0/)
+- TryHackMe !
+  <a href="https://tryhackme.com/p/hammer.time"><img src="https://img.shields.io/badge/TryHackMe-%40Hammer.time-critical.svg" alt="Hammert.time" height="18"></a>
 
 - Email : ayman.zerda@ump.ac.ma
 <!--
